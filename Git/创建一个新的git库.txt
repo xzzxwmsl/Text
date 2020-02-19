@@ -1,0 +1,9 @@
+git init //创建库
+git add README.md //关联readme
+git commit -m "first commit" //提交
+git remote add origin https://github.com/xzzxwmsl/Text.git  //关联远程库
+git push -u origin master  //提交
+
+
+git remote rm origin //清除关联库
+git push origin master //提交
