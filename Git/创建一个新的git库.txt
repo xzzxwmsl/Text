@@ -7,3 +7,5 @@ git push -u origin master  //提交
 
 git remote rm origin //清除关联库
 git push origin master //提交
+git pull origin master//拉到本地
+git pull https://github.com/xzzxwmsl/LeetCode.git//拉到本地
